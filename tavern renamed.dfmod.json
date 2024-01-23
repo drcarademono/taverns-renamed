@@ -1653,7 +1653,9 @@
         "Assets/Game/Mods/taverns-renamed/WorldData/location-22-155.json",
         "Assets/Game/Mods/taverns-renamed/WorldData/location-17-491.json",
         "Assets/Game/Mods/taverns-renamed/WorldData/location-41-20.json",
-        "Assets/Game/Mods/taverns-renamed/tavern renamed.dfmod.json"
+        "Assets/Game/Mods/taverns-renamed/tavern renamed.dfmod.json",
+        "Assets/Game/Mods/taverns-renamed/TavernsRenamedData.csv",
+        "Assets/Game/Mods/taverns-renamed/Scripts/TavernsRenamedLoader.cs"
     ],
     "Dependencies": [
         {
